@@ -1,0 +1,61 @@
+{
+  "v1": {
+    "title": "57 % nutzen KI – aber nur 3 % richtig",
+    "segments": [
+      { "id": "hook", "say": "Stopp! Mehr als jedes zweite Unternehmen in Deutschland nutzt jetzt Ka-I.", "cap": "Stopp! Mehr als jedes zweite Unternehmen in Deutschland nutzt jetzt KI." },
+      { "id": "stat", "say": "Laut Bitkom sind es siebenundfünfzig Prozent. Im Frühjahr waren es noch einundvierzig.", "cap": "Laut Bitkom sind es 57 Prozent. Im Frühjahr waren es noch 41." },
+      { "id": "quiz", "say": "Aber jetzt rate mal: Wie viele Unternehmen schöpfen die Möglichkeiten wirklich stark aus? A, B oder C?", "cap": "Aber jetzt rate mal: Wie viele Unternehmen schöpfen die Möglichkeiten wirklich stark aus? A, B oder C?", "gapAfter": 3.2 },
+      { "id": "reveal", "say": "Nur drei Prozent! Die meisten haben ein Tool, aber keinen Plan.", "cap": "Nur 3 Prozent! Die meisten haben ein Tool, aber keinen Plan." },
+      { "id": "series", "say": "Genau das ändern wir. In fünf Folgen zeige ich dir Tools, die dein Team sofort entlasten.", "cap": "Genau das ändern wir. In 5 Folgen zeige ich dir Tools, die dein Team sofort entlasten." },
+      { "id": "cta", "say": "Schreib in die Kommentare: Nutzt ihr schon Ka-I? Ja oder nein? Und folg mir für Folge zwei.", "cap": "Schreib in die Kommentare: Nutzt ihr schon KI? Ja oder nein? Und folg mir für Folge 2." }
+    ]
+  },
+  "v2": {
+    "title": "Nie wieder Protokoll schreiben",
+    "segments": [
+      { "id": "hook", "say": "Dein Team verbringt Stunden mit Protokollen. Ka-I erledigt das in Sekunden.", "cap": "Dein Team verbringt Stunden mit Protokollen. KI erledigt das in Sekunden." },
+      { "id": "how", "say": "Ein Meeting-Assistent hört mit, schreibt jedes Wort mit und fasst alles zusammen.", "cap": "Ein Meeting-Assistent hört mit, schreibt jedes Wort mit und fasst alles zusammen." },
+      { "id": "result", "say": "Am Ende hast du Zusammenfassung, Entscheidungen und Aufgaben. Mit Namen und Frist.", "cap": "Am Ende hast du Zusammenfassung, Entscheidungen und Aufgaben. Mit Namen und Frist." },
+      { "id": "tools", "say": "Bekannte Tools sind Feierfleis und Otter. Oder Dschäimi, mit Servern in der E U.", "cap": "Bekannte Tools sind Fireflies und Otter. Oder Jamie, mit Servern in der EU." },
+      { "id": "legal", "say": "Wichtig: Sag allen Teilnehmern vorher, dass aufgezeichnet wird.", "cap": "Wichtig: Sag allen Teilnehmern vorher, dass aufgezeichnet wird." },
+      { "id": "pro", "say": "Profi-Tipp: Verbinde das Tool mit deinem Ce Er Em. Dann landen die Aufgaben automatisch am richtigen Ort.", "cap": "Profi-Tipp: Verbinde das Tool mit deinem CRM. Dann landen die Aufgaben automatisch am richtigen Ort." },
+      { "id": "cta", "say": "Welches Meeting würdest du zuerst automatisieren? Schreib es in die Kommentare.", "cap": "Welches Meeting würdest du zuerst automatisieren? Schreib es in die Kommentare." }
+    ]
+  },
+  "v3": {
+    "title": "Kundenservice um 3 Uhr nachts",
+    "segments": [
+      { "id": "hook", "say": "Drei Uhr nachts. Ein Kunde hat eine Frage. Und dein Support schläft.", "cap": "3 Uhr nachts. Ein Kunde hat eine Frage. Und dein Support schläft." },
+      { "id": "agent", "say": "Ein Ka-I Agent antwortet sofort. Rund um die Uhr, in jeder Sprache.", "cap": "Ein KI-Agent antwortet sofort. Rund um die Uhr, in jeder Sprache." },
+      { "id": "action", "say": "Er findet die Antwort in deinen Hilfeartikeln und kann sogar handeln. Zum Beispiel eine Bestellung prüfen.", "cap": "Er findet die Antwort in deinen Hilfeartikeln und kann sogar handeln. Zum Beispiel eine Bestellung prüfen." },
+      { "id": "tools", "say": "Bekannte Tools sind Interkomm Finn und Sendesk Ka-I.", "cap": "Bekannte Tools sind Intercom Fin und Zendesk AI." },
+      { "id": "knowledge", "say": "Aber: Der Agent ist nur so gut wie dein Wissen. Halte deine Hilfeartikel aktuell.", "cap": "Aber: Der Agent ist nur so gut wie dein Wissen. Halte deine Hilfeartikel aktuell." },
+      { "id": "handoff", "say": "Und bei schwierigen Fällen übergibt er an einen Menschen.", "cap": "Und bei schwierigen Fällen übergibt er an einen Menschen." },
+      { "id": "cta", "say": "Was ist dir lieber: Bot zuerst oder Mensch zuerst? Stimm in den Kommentaren ab.", "cap": "Was ist dir lieber: Bot zuerst oder Mensch zuerst? Stimm in den Kommentaren ab." }
+    ]
+  },
+  "v4": {
+    "title": "E-Mail rein, CRM fertig",
+    "segments": [
+      { "id": "hook", "say": "Du kopierst noch Daten aus E-Mails ins Ce Er Em? Hör sofort damit auf.", "cap": "Du kopierst noch Daten aus E-Mails ins CRM? Hör sofort damit auf." },
+      { "id": "intro", "say": "Mit Automatisierungs-Tools baust du Abläufe, die von allein laufen.", "cap": "Mit Automatisierungs-Tools baust du Abläufe, die von allein laufen." },
+      { "id": "extract", "say": "Eine Anfrage kommt per Mail. Ka-I liest sie und erkennt Name, Firma und Anliegen.", "cap": "Eine Anfrage kommt per Mail. KI liest sie und erkennt Name, Firma und Anliegen." },
+      { "id": "crm", "say": "Dann legt sie den Kontakt im Ce Er Em an und schickt deinem Vertrieb eine Nachricht.", "cap": "Dann legt sie den Kontakt im CRM an und schickt deinem Vertrieb eine Nachricht." },
+      { "id": "tools", "say": "Die Tools dafür: Sapier, Meik oder n acht n. Das letzte läuft sogar auf deinen eigenen Servern.", "cap": "Die Tools dafür: Zapier, Make oder n8n. Das letzte läuft sogar auf deinen eigenen Servern." },
+      { "id": "tip", "say": "Mein Tipp: Fang mit einer einzigen Aufgabe an, die dich jeden Tag nervt.", "cap": "Mein Tipp: Fang mit einer einzigen Aufgabe an, die dich jeden Tag nervt." },
+      { "id": "cta", "say": "Welche Aufgabe nervt dich am meisten? Schreib sie unten rein.", "cap": "Welche Aufgabe nervt dich am meisten? Schreib sie unten rein." }
+    ]
+  },
+  "v5": {
+    "title": "KI einführen in 4 Schritten",
+    "segments": [
+      { "id": "hook", "say": "Du willst Ka-I im Unternehmen einführen? Dann mach diese vier Schritte. Genau in dieser Reihenfolge.", "cap": "Du willst KI im Unternehmen einführen? Dann mach diese 4 Schritte. Genau in dieser Reihenfolge." },
+      { "id": "s1", "say": "Eins: Starte klein. Ein Team, ein Problem, ein Tool.", "cap": "Eins: Starte klein. Ein Team, ein Problem, ein Tool." },
+      { "id": "s2", "say": "Zwei: Schulen. Der E U Ei Ei Äkt verlangt Maßnahmen für die Ka-I Kompetenz deiner Leute. Ein Zertifikat brauchst du nicht. Aber dokumentier es.", "cap": "Zwei: Schulen. Der EU AI Act verlangt Maßnahmen für die KI-Kompetenz deiner Leute. Ein Zertifikat brauchst du nicht. Aber dokumentier es." },
+      { "id": "s3", "say": "Drei: Regeln. Welche Tools sind erlaubt? Und welche Daten dürfen nie in ein Gratis-Tool?", "cap": "Drei: Regeln. Welche Tools sind erlaubt? Und welche Daten dürfen nie in ein Gratis-Tool?" },
+      { "id": "s4", "say": "Vier: Messen. Wie viel Zeit spart ihr wirklich? Erst dann ausrollen.", "cap": "Vier: Messen. Wie viel Zeit spart ihr wirklich? Erst dann ausrollen." },
+      { "id": "save", "say": "Speicher dir das Video, damit du die Checkliste nicht verlierst.", "cap": "Speicher dir das Video, damit du die Checkliste nicht verlierst." },
+      { "id": "cta", "say": "Bei welchem Schritt seid ihr gerade? Schreib die Zahl in die Kommentare.", "cap": "Bei welchem Schritt seid ihr gerade? Schreib die Zahl in die Kommentare." }
+    ]
+  }
+}
